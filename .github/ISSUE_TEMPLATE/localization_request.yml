@@ -1,0 +1,19 @@
+name: ✔ Localization request
+description: Request us to add new translations or update existing ones.
+labels: Localization
+body:
+ - type: input
+   attributes:
+    label: Language code
+    description: | 
+      You can find a list of language codes [here](https://www.science.co.il/language/Locale-codes.php#definitions).
+    placeholder: "examples: fr_ca, es_es, it_it"
+   validations:
+    required: true
+ - type: textarea
+   attributes:
+    label: CSV file
+    description: "Drag and drop the .CSV file to this box to upload it."
+    placeholder: "Upload your CSV translation file."
+   validations:
+    required: true
