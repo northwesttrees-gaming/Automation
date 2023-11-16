@@ -1,0 +1,11 @@
+name: 💡 Feature request
+description: Suggest a feature
+labels: Feature
+body:
+ - type: textarea
+   attributes:
+    label: Feature description
+    description: Explain clearly what your idea or suggestion is about.
+    placeholder: Tell us here about the idea/feature
+   validations:
+    required: true
