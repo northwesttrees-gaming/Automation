@@ -1,0 +1,63 @@
+SEP=,
+Translation key (DON'T EDIT),TRANSLATION IN en_ca - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
+block.automation.aluminum_cable_x,Aluminum Cable,Aluminum Cable
+msg.automation.block.no_installed_upgrade,This block has no installed upgrades!,This block has no installed upgrades!
+block.automation.aluminum_cable_s,Aluminum Cable,Aluminum Cable
+block.automation.aluminum_cable_tc,Aluminum Cable,Aluminum Cable
+block.automation.aluminum_cable_t,Aluminum Cable,Aluminum Cable
+msg.automation.wrench.remove.breaker_panel,The Wrench will now remove Breaker Panel links,The Wrench will now remove Breaker Panel links
+msg.automation.upgrade,Upgrade,Upgrade
+gui.automation.auto_farming_machine_inventory.label_auto_farming_machine,Auto Farm Machine,Auto Farm Machine
+block.automation.aluminum_cable_xc,Aluminum Cable,Aluminum Cable
+item.automation.iron_upgrade,Iron Upgrade,Iron Upgrade
+msg.automation.wrench.block_doesnt_link,This block can't link the stored device!,This block can't link the stored device!
+gui.automation.cable_bridge_menu.label_stored_energy,Stored Energy,Stored Energy
+block.automation.aluminum_cable_l,Aluminum Cable,Aluminum Cable
+block.automation.cable_bridge_on,Cable Bridge,Cable Bridge
+block.automation.aluminum_cable_n,Aluminum Cable,Aluminum Cable
+msg.automation.wrench.remove.battery,The Wrench will now remove Battery links,The Wrench will now remove Battery links
+gui.automation.breaker_panel_screen.label_password_state,PASSWORD STATE,PASSWORD STATE
+item_group.automation.automation,Automation,Automation
+msg.automation.wrench.block_doesnt_save,This block can't be saved to the wrench!,This block can't be saved to the wrench!
+gui.automation.breaker_panel_screen.button_set,SET,SET
+gui.automation.battery_screen.label_battery,Battery,Battery
+block.automation.solar_panel,Solar Panel,Solar Panel
+block.automation.aluminum_cable_txcc,Aluminum Cable,Aluminum Cable
+key.automation.machine_wrench_remove_mode,Machine Wrench Remove Mode,Machine Wrench Remove Mode
+item.automation.diamond_upgrade,Diamond Upgrade,Diamond Upgrade
+msg.automation.wrench.device_saved,The device has been saved!,The device has been saved!
+gui.automation.password_screen.button_set_enter,SET / ENTER,SET / ENTER
+block.automation.battery_on,Battery On,Battery On
+item.automation.wooden_upgrade,Wooden Upgrade,Wooden Upgrade
+key.categories.automation,Automation,Automation
+msg.automation.wrench.remove.remote_item_teleporter,The Wrench will now remove Remote Item Teleporter links,The Wrench will now remove Remote Item Teleporter links
+block.automation.solar_panel_on,Solar Panel,Solar Panel
+gui.automation.breaker_panel_screen.label_password,PASSWORD,PASSWORD
+item.automation.golden_upgrade,Golden Upgrade,Golden Upgrade
+block.automation.breaker_panel_on,Breaker Panel On,Breaker Panel On
+block.automation.auto_farm,Auto Farm,Auto Farm
+block.automation.remote_item_teleporter,Remote Item Teleporter,Remote Item Teleporter
+block.automation.breaker_panel,Breaker Panel,Breaker Panel
+block.automation.aluminum_cable_lcc,Aluminum Cable,Aluminum Cable
+gui.automation.breaker_panel_screen.button_enabledisable,ENABLE/DISABLE,ENABLE/DISABLE
+block.automation.battery,Battery,Battery
+msg.automation.wrench.remove.none,The Wrench will no longer remove links!,The Wrench will no longer remove links!
+item.automation.netherite_upgrade,Netherite Upgrade,Netherite Upgrade
+block.automation.aluminum_cable_txc,Aluminum Cable,Aluminum Cable
+block.automation.cable_bridge,Cable Bridge,Cable Bridge
+block.automation.aluminum_cable_ltc,Aluminum Cable,Aluminum Cable
+msg.automation.energy,Energy,Energy
+block.automation.machine_block,Machine Block,Machine Block
+block.automation.aluminum_cable_lt,Aluminum Cable,Aluminum Cable
+msg.automation.max_energy,Max Energy,Max Energy
+block.automation.aluminum_cable_tx,Aluminum Cable,Aluminum Cable
+gui.automation.password_screen.password,Password,Password
+block.automation.auto_farm_on,Auto Farm On,Auto Farm On
+block.automation.aluminum_cable_i,Aluminum Cable,Aluminum Cable
+item.automation.stone_upgrade,Stone Upgrade,Stone Upgrade
+block.automation.aluminum_cable_e,Aluminum Cable,Aluminum Cable
+item.automation.machine_wrench,Machine Wrench,Machine Wrench
+block.automation.aluminum_cable_f,Aluminum Cable,Aluminum Cable
+block.automation.aluminum_cable_lc,Aluminum Cable,Aluminum Cable
+gui.automation.cable_bridge_menu.label_block_name,Block Name,Block Name
+gui.automation.password_screen.label_password_required,PASSWORD REQUIRED,PASSWORD REQUIRED
